@@ -1,7 +1,7 @@
 {
   "name": "MoonOutsideMapTablet",
-  "version_number": "1.0.0",
-  "website_url": "",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/BeInForIt/MoonOutsideMapTablet",
   "description": "Tablet-style schematic outside map showing ship, main entrance and fire exit. Works with modded moons.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
