@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.sln
+*.slnx
+
+# Debug symbols
+*.pdb
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Releases/zips you generate
+*.zip
